@@ -1,0 +1,40 @@
+docker cheatsheet
+
+docker container ls -> show containers
+docker image ls -> show images
+docker images
+docker ps --filter "status=exited"
+docker rm $(docker ps -a -q)
+docker rmi $(docker images -q)
+docker kill $container
+docker rm $container
+docker rmi $image
+
+HOW TO RUN DOCKER PROXY FROM raft repo:
+
+===== docker forwards port 8080->9090:
+
+docker build -t raft/envoy -f ./envoy.Dockerfile .
+docker run -d -p 8080:8080  --network=host raft/envoy
+docker run -d -p 8080:8080 raft/envoy
+
+===== compile frontend client with webpack:
+
+npx webpack raft/raft_frontend_client.js
+
+===== serve frontend:
+
+python3 -m http.server 8081 &
+
+===== run a raft node
+
+go run ./cmd/raft-node -p 9090
+
+===== on a browser:
+
+open localhost:8081 and open the developer console
+to see the printouts of the raft node client connections
+
+===== testing
+
+go test -run TestClusterForWeb

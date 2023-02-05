@@ -1,0 +1,10 @@
+changes we made:
+
+Sprintfs had to be formatted correctly in cli.go and unknown_routing_table_test.go (didn't have % sign)
+Need to import tapestry/tapestry manually in testing and reference as t.RemoteNode, t.ID, etc.
+did a go get for gopkg.in/check.v1
+did a go get for abiosoftShell (but not specific to this assignment)
+changed package for testing to 'tapestry' instead of 'testing'
+We moved all of the files from the testing directory to the tapestry directory (should have been like this in the
+first place, like Raft/Liteminer)
+We added a TestingT function to all of the go check tests so that they would run (potentially this happens on its own)

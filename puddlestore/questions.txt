@@ -1,0 +1,22 @@
+Questions for our TA:
+- Matt's Questions:
+-- for raft do we create a local cluster or just create a bunch of raft nodes make sure they all communicate / how to maintain and make sure they are alive
+-- wtf is acl
+-- how to reboot zookeeper server -> prob important for testing
+-- wtf is wrong w using the built-in locks
+-- can we use sequence NOT in the context of locks? like just for raft1 raft2 etc
+-- how do we actually replace znode and zab w tapestry and raft?
+-- had issue w encoding that said type raft.NetworkPolicy has no exported fields
+    understand why this is the case but how much would it fuck up existing raft to
+    make some shit exported - as i am assuming that we need to maintain some component of this
+      solution: i am gonna make this unexported inside of Raft Node as I think it is
+      primarily utilized for testing RAFT -> am gonna do this after asking bc i would have to
+      spelling everywhere and thats annoying
+-- how tf do we know what version to delete ??
+--
+
+- Seneca's Questions
+
+
+
+- Kei's Questions:

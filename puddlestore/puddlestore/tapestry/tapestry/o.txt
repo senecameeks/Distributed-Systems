@@ -1,0 +1,44 @@
+=== RUN   TestNodeSetsSemantics
+--- PASS: TestNodeSetsSemantics (0.00s)
+=== RUN   TestEnsureConsts
+--- PASS: TestEnsureConsts (0.00s)
+=== RUN   TestRandom
+--- PASS: TestRandom (0.00s)
+=== RUN   TestHash
+--- PASS: TestHash (0.00s)
+=== RUN   TestDeterministic
+--- PASS: TestDeterministic (0.00s)
+=== RUN   TestParse
+--- PASS: TestParse (0.00s)
+=== RUN   TestBigID
+--- PASS: TestBigID (0.00s)
+=== RUN   TestCloser
+--- PASS: TestCloser (0.00s)
+=== RUN   TestDigitDistance
+--- PASS: TestDigitDistance (0.00s)
+=== RUN   TestDigitsSet
+--- PASS: TestDigitsSet (0.00s)
+=== RUN   TestIDSimple
+--- PASS: TestIDSimple (0.00s)
+=== RUN   TestSampleTapestrySetup
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:42761
+Registered RPC Server
+Created tapestry node Tapestry Node 3000000000000000000000000000000000000000 at luna:41775
+Registered RPC Server
+--- FAIL: TestSampleTapestrySetup (0.02s)
+panic: runtime error: index out of range [recovered]
+	panic: runtime error: index out of range
+
+goroutine 16 [running]:
+testing.tRunner.func1(0xc00011cc00)
+	/contrib/projects/go-1.11/src/testing/testing.go:792 +0x387
+panic(0x8fd020, 0xd8c310)
+	/contrib/projects/go-1.11/src/runtime/panic.go:513 +0x1b9
+tapestry/tapestry.TestSampleTapestrySetup(0xc00011cc00)
+	/course/cs1380/admin/2019s/work/boppenhe/src/tapestry/tapestry/sample_test.go:10 +0x2ff
+testing.tRunner(0xc00011cc00, 0x9b5998)
+	/contrib/projects/go-1.11/src/testing/testing.go:827 +0xbf
+created by testing.(*T).Run
+	/contrib/projects/go-1.11/src/testing/testing.go:878 +0x353
+exit status 2
+FAIL	tapestry/tapestry	0.048s

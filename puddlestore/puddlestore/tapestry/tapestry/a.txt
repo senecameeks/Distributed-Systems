@@ -1,0 +1,2581 @@
+=== RUN   TestNodeSetsSemantics
+--- PASS: TestNodeSetsSemantics (0.00s)
+=== RUN   TestEnsureConsts
+--- PASS: TestEnsureConsts (0.00s)
+=== RUN   TestRandom
+--- PASS: TestRandom (0.00s)
+=== RUN   TestHash
+--- PASS: TestHash (0.00s)
+=== RUN   TestDeterministic
+--- PASS: TestDeterministic (0.00s)
+=== RUN   TestParse
+--- PASS: TestParse (0.00s)
+=== RUN   TestBigID
+--- PASS: TestBigID (0.00s)
+=== RUN   TestCloser
+--- PASS: TestCloser (0.00s)
+=== RUN   TestDigitDistance
+--- PASS: TestDigitDistance (0.00s)
+=== RUN   TestDigitsSet
+--- PASS: TestDigitsSet (0.00s)
+=== RUN   TestIDSimple
+--- PASS: TestIDSimple (0.00s)
+=== RUN   TestSampleTapestrySetup
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:43073
+Registered RPC Server
+Created tapestry node Tapestry Node 3000000000000000000000000000000000000000 at luna:37227
+Registered RPC Server
+Created tapestry node Tapestry Node 5000000000000000000000000000000000000000 at luna:35487
+Registered RPC Server
+Created tapestry node Tapestry Node 7000000000000000000000000000000000000000 at luna:46323
+Registered RPC Server
+length of tap 4
+killing
+finished killing
+--- PASS: TestSampleTapestrySetup (0.05s)
+=== RUN   TestSampleTapestrySearch
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:35571
+Registered RPC Server
+Created tapestry node Tapestry Node 4560000000000000000000000000000000000000 at luna:39029
+Registered RPC Server
+Created tapestry node Tapestry Node 1234000000000000000000000000000000000000 at luna:42829
+Registered RPC Server
+--- PASS: TestSampleTapestrySearch (0.04s)
+=== RUN   TestSampleTapestryAddNodes
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:37295
+Registered RPC Server
+Created tapestry node Tapestry Node 5000000000000000000000000000000000000000 at luna:36789
+Registered RPC Server
+Created tapestry node Tapestry Node 9000000000000000000000000000000000000000 at luna:35201
+Registered RPC Server
+Created tapestry node Tapestry Node 8000000000000000000000000000000000000000 at luna:40951
+Registered RPC Server
+Created tapestry node Tapestry Node 1200000000000000000000000000000000000000 at luna:44447
+Registered RPC Server
+--- PASS: TestSampleTapestryAddNodes (2.05s)
+=== RUN   TestTARoutingTable
+RUNNING RUNNING RUNNINGCreated tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:35421
+Registered RPC Server
+Created tapestry node Tapestry Node 6000000000000000000000000000000000000000 at luna:45023
+Registered RPC Server
+Created tapestry node Tapestry Node 9000000000000000000000000000000000000000 at luna:36005
+Registered RPC Server
+Created tapestry node Tapestry Node 1100000000000000000000000000000000000000 at luna:38117
+Registered RPC Server
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:38873
+Registered RPC Server
+Created tapestry node Tapestry Node 6000000000000000000000000000000000000000 at luna:46059
+Registered RPC Server
+Created tapestry node Tapestry Node 9000000000000000000000000000000000000000 at luna:38063
+Registered RPC Server
+Created tapestry node Tapestry Node 1100000000000000000000000000000000000000 at luna:33431
+Registered RPC Server
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:35799
+Registered RPC Server
+Created tapestry node Tapestry Node 6000000000000000000000000000000000000000 at luna:34483
+Registered RPC Server
+Created tapestry node Tapestry Node 9000000000000000000000000000000000000000 at luna:37953
+Registered RPC Server
+Created tapestry node Tapestry Node 1100000000000000000000000000000000000000 at luna:40953
+Registered RPC Server
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:39375
+Registered RPC Server
+Created tapestry node Tapestry Node 6000000000000000000000000000000000000000 at luna:46787
+Registered RPC Server
+Created tapestry node Tapestry Node 9000000000000000000000000000000000000000 at luna:35265
+Registered RPC Server
+Created tapestry node Tapestry Node 1100000000000000000000000000000000000000 at luna:41193
+Registered RPC Server
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:39523
+Registered RPC Server
+Created tapestry node Tapestry Node 6000000000000000000000000000000000000000 at luna:45097
+Registered RPC Server
+Created tapestry node Tapestry Node 9000000000000000000000000000000000000000 at luna:36947
+Registered RPC Server
+Created tapestry node Tapestry Node 1100000000000000000000000000000000000000 at luna:38369
+Registered RPC Server
+Created tapestry node Tapestry Node 1234000000000000000000000000000000000000 at luna:33961
+Registered RPC Server
+Created tapestry node Tapestry Node 1244000000000000000000000000000000000000 at luna:45309
+Registered RPC Server
+Created tapestry node Tapestry Node 1234000000000000000000000000000000000000 at luna:34365
+Registered RPC Server
+Created tapestry node Tapestry Node 1244000000000000000000000000000000000000 at luna:33075
+Registered RPC Server
+Created tapestry node Tapestry Node 1234000000000000000000000000000000000000 at luna:34149
+Registered RPC Server
+Created tapestry node Tapestry Node 1244000000000000000000000000000000000000 at luna:44951
+Registered RPC Server
+Created tapestry node Tapestry Node 1234000000000000000000000000000000000000 at luna:34929
+Registered RPC Server
+Created tapestry node Tapestry Node 1244000000000000000000000000000000000000 at luna:39247
+Registered RPC Server
+Created tapestry node Tapestry Node 1234000000000000000000000000000000000000 at luna:46693
+Registered RPC Server
+Created tapestry node Tapestry Node 1244000000000000000000000000000000000000 at luna:36107
+Registered RPC Server
+Created tapestry node Tapestry Node 1234000000000000000000000000000000000000 at luna:34591
+Registered RPC Server
+Created tapestry node Tapestry Node 1244000000000000000000000000000000000000 at luna:40505
+Registered RPC Server
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:46125
+Registered RPC Server
+Created tapestry node Tapestry Node 6000000000000000000000000000000000000000 at luna:39885
+Registered RPC Server
+Created tapestry node Tapestry Node 9000000000000000000000000000000000000000 at luna:39521
+Registered RPC Server
+Created tapestry node Tapestry Node 1100000000000000000000000000000000000000 at luna:33555
+Registered RPC Server
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:41707
+Registered RPC Server
+Created tapestry node Tapestry Node 6000000000000000000000000000000000000000 at luna:39489
+Registered RPC Server
+Created tapestry node Tapestry Node 9000000000000000000000000000000000000000 at luna:44311
+Registered RPC Server
+Created tapestry node Tapestry Node 1100000000000000000000000000000000000000 at luna:43011
+Registered RPC Server
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:38165
+Registered RPC Server
+Created tapestry node Tapestry Node 6000000000000000000000000000000000000000 at luna:34733
+Registered RPC Server
+Created tapestry node Tapestry Node 9000000000000000000000000000000000000000 at luna:37013
+Registered RPC Server
+Created tapestry node Tapestry Node 1100000000000000000000000000000000000000 at luna:40395
+Registered RPC Server
+Created tapestry node Tapestry Node 0000000000000000000000000000000000000000 at luna:45651
+Registered RPC Server
+Created tapestry node Tapestry Node 0000100000000000000000000000000000000000 at luna:44141
+Registered RPC Server
+Created tapestry node Tapestry Node 0001000000000000000000000000000000000000 at luna:46201
+Registered RPC Server
+Created tapestry node Tapestry Node 0010000000000000000000000000000000000000 at luna:35095
+Registered RPC Server
+Created tapestry node Tapestry Node 0100000000000000000000000000000000000000 at luna:35639
+Registered RPC Server
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:35427
+Registered RPC Server
+Created tapestry node Tapestry Node 0000110000000000000000000000000000000000 at luna:33713
+Registered RPC Server
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:33199
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:36183
+Registered RPC Server
+Created tapestry node Tapestry Node 2100000000000000000000000000000000000000 at luna:34199
+Registered RPC Server
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:36407
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:43125
+Registered RPC Server
+Created tapestry node Tapestry Node 2100000000000000000000000000000000000000 at luna:45035
+Registered RPC Server
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:36475
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:34357
+Registered RPC Server
+Created tapestry node Tapestry Node 2100000000000000000000000000000000000000 at luna:37149
+Registered RPC Server
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:33449
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:44705
+Registered RPC Server
+Created tapestry node Tapestry Node 2001000000000000000000000000000000000000 at luna:44919
+Registered RPC Server
+Created tapestry node Tapestry Node 1027310000000000000000000000000000000000 at luna:39921
+Registered RPC Server
+Created tapestry node Tapestry Node 0273729000000000000000000000000000000000 at luna:35291
+Registered RPC Server
+Created tapestry node Tapestry Node AE1027F000000000000000000000000000000000 at luna:39241
+Registered RPC Server
+Created tapestry node Tapestry Node 293FD29000000000000000000000000000000000 at luna:33541
+Registered RPC Server
+Created tapestry node Tapestry Node 77F8E8C000000000000000000000000000000000 at luna:36043
+Registered RPC Server
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:40775
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:36275
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:45391
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:39959
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:38875
+Registered RPC Server
+Created tapestry node Tapestry Node 8D86D1D0681D9E75000000000000000000000000 at luna:33029
+Registered RPC Server
+Created tapestry node Tapestry Node E100619793BC6680000000000000000000000000 at luna:33451
+Registered RPC Server
+Created tapestry node Tapestry Node 492D4C22CA2D8041000000000000000000000000 at luna:33813
+Registered RPC Server
+Created tapestry node Tapestry Node 0A70929384F796C0000000000000000000000000 at luna:44237
+Registered RPC Server
+Created tapestry node Tapestry Node 99BED9814A744862000000000000000000000000 at luna:40703
+Registered RPC Server
+Created tapestry node Tapestry Node 95C0410489885BB0000000000000000000000000 at luna:38813
+Registered RPC Server
+Created tapestry node Tapestry Node 0BD7158A71EE7076000000000000000000000000 at luna:33443
+Registered RPC Server
+Created tapestry node Tapestry Node 3C2F419553CB1786000000000000000000000000 at luna:42555
+Registered RPC Server
+Created tapestry node Tapestry Node 553E7C7A46093C84000000000000000000000000 at luna:34487
+Registered RPC Server
+Created tapestry node Tapestry Node 0EAAB0A666852665000000000000000000000000 at luna:37325
+Registered RPC Server
+Created tapestry node Tapestry Node 3CE28F97910D99E0000000000000000000000000 at luna:35443
+Registered RPC Server
+Created tapestry node Tapestry Node F1A78FE559B34746000000000000000000000000 at luna:44055
+Registered RPC Server
+Created tapestry node Tapestry Node 24F8FEB57587B957000000000000000000000000 at luna:40151
+Registered RPC Server
+Created tapestry node Tapestry Node 9C20F24D8C9F13D3000000000000000000000000 at luna:37051
+Registered RPC Server
+Created tapestry node Tapestry Node D99A2DA9E8D79372000000000000000000000000 at luna:45521
+Registered RPC Server
+killing
+finished killing
+killing
+finished killing
+killing
+finished killing
+killing
+finished killing
+killing
+finished killing
+killing
+finished killing
+killing
+finished killing
+killing
+finished killing
+killing
+finished killing
+killing
+finished killing
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:46163
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:40211
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:38153
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:38205
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:46021
+Registered RPC Server
+Created tapestry node Tapestry Node 51F88EF7C53FFDD2000000000000000000000000 at luna:44665
+Registered RPC Server
+Created tapestry node Tapestry Node 0FE605BD3D8EB1C6000000000000000000000000 at luna:44713
+Registered RPC Server
+Created tapestry node Tapestry Node 222413B48AC6B2F4000000000000000000000000 at luna:36313
+Registered RPC Server
+Created tapestry node Tapestry Node 69F2C6B0E9E01932000000000000000000000000 at luna:35943
+Registered RPC Server
+Created tapestry node Tapestry Node 0A44690CA41F1A56000000000000000000000000 at luna:41957
+Registered RPC Server
+killing
+finished killing
+killing
+finished killing
+killing
+finished killing
+killing
+finished killing
+killing
+finished killing
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:34301
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:34111
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:40379
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:42803
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:37259
+Registered RPC Server
+Created tapestry node Tapestry Node 8D86D1D0681D9E75000000000000000000000000 at luna:37515
+Registered RPC Server
+Created tapestry node Tapestry Node E100619793BC6680000000000000000000000000 at luna:38019
+Registered RPC Server
+Created tapestry node Tapestry Node 492D4C22CA2D8041000000000000000000000000 at luna:42847
+Registered RPC Server
+Created tapestry node Tapestry Node 0A70929384F796C0000000000000000000000000 at luna:36687
+Registered RPC Server
+Created tapestry node Tapestry Node 99BED9814A744862000000000000000000000000 at luna:42779
+Registered RPC Server
+Created tapestry node Tapestry Node 95C0410489885BB0000000000000000000000000 at luna:44143
+Registered RPC Server
+Created tapestry node Tapestry Node 0BD7158A71EE7076000000000000000000000000 at luna:44525
+Registered RPC Server
+Created tapestry node Tapestry Node 3C2F419553CB1786000000000000000000000000 at luna:34207
+Registered RPC Server
+Created tapestry node Tapestry Node 553E7C7A46093C84000000000000000000000000 at luna:41963
+Registered RPC Server
+Created tapestry node Tapestry Node 0EAAB0A666852665000000000000000000000000 at luna:36551
+Registered RPC Server
+Created tapestry node Tapestry Node 3CE28F97910D99E0000000000000000000000000 at luna:36669
+Registered RPC Server
+Created tapestry node Tapestry Node F1A78FE559B34746000000000000000000000000 at luna:36001
+Registered RPC Server
+Created tapestry node Tapestry Node 24F8FEB57587B957000000000000000000000000 at luna:43175
+Registered RPC Server
+Created tapestry node Tapestry Node 9C20F24D8C9F13D3000000000000000000000000 at luna:37175
+Registered RPC Server
+Created tapestry node Tapestry Node D99A2DA9E8D79372000000000000000000000000 at luna:33097
+Registered RPC Server
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:35239
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:34431
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:45869
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:37283
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:38527
+Registered RPC Server
+Created tapestry node Tapestry Node 8D86D1D0681D9E75000000000000000000000000 at luna:41181
+Registered RPC Server
+Created tapestry node Tapestry Node E100619793BC6680000000000000000000000000 at luna:37749
+Registered RPC Server
+Created tapestry node Tapestry Node 492D4C22CA2D8041000000000000000000000000 at luna:40855
+Registered RPC Server
+Created tapestry node Tapestry Node 0A70929384F796C0000000000000000000000000 at luna:40061
+Registered RPC Server
+Created tapestry node Tapestry Node 99BED9814A744862000000000000000000000000 at luna:37647
+Registered RPC Server
+Created tapestry node Tapestry Node 95C0410489885BB0000000000000000000000000 at luna:34809
+Registered RPC Server
+Created tapestry node Tapestry Node 0BD7158A71EE7076000000000000000000000000 at luna:34729
+Registered RPC Server
+Created tapestry node Tapestry Node 3C2F419553CB1786000000000000000000000000 at luna:41469
+Registered RPC Server
+Created tapestry node Tapestry Node 553E7C7A46093C84000000000000000000000000 at luna:38815
+Registered RPC Server
+Created tapestry node Tapestry Node 0EAAB0A666852665000000000000000000000000 at luna:42843
+Registered RPC Server
+Created tapestry node Tapestry Node 3CE28F97910D99E0000000000000000000000000 at luna:46877
+Registered RPC Server
+Created tapestry node Tapestry Node F1A78FE559B34746000000000000000000000000 at luna:39565
+Registered RPC Server
+Created tapestry node Tapestry Node 24F8FEB57587B957000000000000000000000000 at luna:45491
+Registered RPC Server
+Created tapestry node Tapestry Node 9C20F24D8C9F13D3000000000000000000000000 at luna:41303
+Registered RPC Server
+Created tapestry node Tapestry Node D99A2DA9E8D79372000000000000000000000000 at luna:46385
+Registered RPC Server
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:46775
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:34317
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:43739
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:35363
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:43119
+Registered RPC Server
+Created tapestry node Tapestry Node 8D86D1D0681D9E75000000000000000000000000 at luna:38667
+Registered RPC Server
+Created tapestry node Tapestry Node E100619793BC6680000000000000000000000000 at luna:46711
+Registered RPC Server
+Created tapestry node Tapestry Node 492D4C22CA2D8041000000000000000000000000 at luna:40249
+Registered RPC Server
+Created tapestry node Tapestry Node 0A70929384F796C0000000000000000000000000 at luna:34625
+Registered RPC Server
+Created tapestry node Tapestry Node 99BED9814A744862000000000000000000000000 at luna:39429
+Registered RPC Server
+Created tapestry node Tapestry Node 95C0410489885BB0000000000000000000000000 at luna:40305
+Registered RPC Server
+Created tapestry node Tapestry Node 0BD7158A71EE7076000000000000000000000000 at luna:38407
+Registered RPC Server
+Created tapestry node Tapestry Node 3C2F419553CB1786000000000000000000000000 at luna:35661
+Registered RPC Server
+Created tapestry node Tapestry Node 553E7C7A46093C84000000000000000000000000 at luna:38083
+Registered RPC Server
+Created tapestry node Tapestry Node 0EAAB0A666852665000000000000000000000000 at luna:41231
+Registered RPC Server
+Created tapestry node Tapestry Node 3CE28F97910D99E0000000000000000000000000 at luna:34813
+Registered RPC Server
+Created tapestry node Tapestry Node F1A78FE559B34746000000000000000000000000 at luna:35011
+Registered RPC Server
+Created tapestry node Tapestry Node 24F8FEB57587B957000000000000000000000000 at luna:43253
+Registered RPC Server
+Created tapestry node Tapestry Node 9C20F24D8C9F13D3000000000000000000000000 at luna:33759
+Registered RPC Server
+Created tapestry node Tapestry Node D99A2DA9E8D79372000000000000000000000000 at luna:44943
+Registered RPC Server
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:44417
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:36919
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:45729
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:34965
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:36023
+Registered RPC Server
+Created tapestry node Tapestry Node 8D86D1D0681D9E75000000000000000000000000 at luna:39765
+Registered RPC Server
+Created tapestry node Tapestry Node E100619793BC6680000000000000000000000000 at luna:46267
+Registered RPC Server
+Created tapestry node Tapestry Node 492D4C22CA2D8041000000000000000000000000 at luna:46371
+Registered RPC Server
+Created tapestry node Tapestry Node 0A70929384F796C0000000000000000000000000 at luna:46437
+Registered RPC Server
+Created tapestry node Tapestry Node 99BED9814A744862000000000000000000000000 at luna:35067
+Registered RPC Server
+Created tapestry node Tapestry Node 95C0410489885BB0000000000000000000000000 at luna:37949
+Registered RPC Server
+Created tapestry node Tapestry Node 0BD7158A71EE7076000000000000000000000000 at luna:41527
+Registered RPC Server
+Created tapestry node Tapestry Node 3C2F419553CB1786000000000000000000000000 at luna:41067
+Registered RPC Server
+Created tapestry node Tapestry Node 553E7C7A46093C84000000000000000000000000 at luna:43797
+Registered RPC Server
+Created tapestry node Tapestry Node 0EAAB0A666852665000000000000000000000000 at luna:40787
+Registered RPC Server
+Created tapestry node Tapestry Node 3CE28F97910D99E0000000000000000000000000 at luna:44863
+Registered RPC Server
+Created tapestry node Tapestry Node F1A78FE559B34746000000000000000000000000 at luna:42787
+Registered RPC Server
+Created tapestry node Tapestry Node 24F8FEB57587B957000000000000000000000000 at luna:34391
+Registered RPC Server
+Created tapestry node Tapestry Node 9C20F24D8C9F13D3000000000000000000000000 at luna:44813
+Registered RPC Server
+Created tapestry node Tapestry Node D99A2DA9E8D79372000000000000000000000000 at luna:33771
+Registered RPC Server
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:35253
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:42671
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:45885
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:36667
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:38805
+Registered RPC Server
+Created tapestry node Tapestry Node 8D86D1D0681D9E75000000000000000000000000 at luna:35203
+Registered RPC Server
+Created tapestry node Tapestry Node E100619793BC6680000000000000000000000000 at luna:44285
+Registered RPC Server
+Created tapestry node Tapestry Node 492D4C22CA2D8041000000000000000000000000 at luna:33043
+Registered RPC Server
+Created tapestry node Tapestry Node 0A70929384F796C0000000000000000000000000 at luna:44745
+Registered RPC Server
+Created tapestry node Tapestry Node 99BED9814A744862000000000000000000000000 at luna:42379
+Registered RPC Server
+Created tapestry node Tapestry Node 95C0410489885BB0000000000000000000000000 at luna:33951
+Registered RPC Server
+Created tapestry node Tapestry Node 0BD7158A71EE7076000000000000000000000000 at luna:45773
+Registered RPC Server
+Created tapestry node Tapestry Node 3C2F419553CB1786000000000000000000000000 at luna:37451
+Registered RPC Server
+Created tapestry node Tapestry Node 553E7C7A46093C84000000000000000000000000 at luna:43405
+Registered RPC Server
+Created tapestry node Tapestry Node 0EAAB0A666852665000000000000000000000000 at luna:35531
+Registered RPC Server
+Created tapestry node Tapestry Node 3CE28F97910D99E0000000000000000000000000 at luna:38701
+Registered RPC Server
+Created tapestry node Tapestry Node F1A78FE559B34746000000000000000000000000 at luna:40335
+Registered RPC Server
+Created tapestry node Tapestry Node 24F8FEB57587B957000000000000000000000000 at luna:39573
+Registered RPC Server
+Created tapestry node Tapestry Node 9C20F24D8C9F13D3000000000000000000000000 at luna:37323
+Registered RPC Server
+Created tapestry node Tapestry Node D99A2DA9E8D79372000000000000000000000000 at luna:39579
+Registered RPC Server
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:35319
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:34571
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:39841
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:44999
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:45203
+Registered RPC Server
+Created tapestry node Tapestry Node 51F88EF7C53FFDD2000000000000000000000000 at luna:44465
+Registered RPC Server
+Created tapestry node Tapestry Node 0FE605BD3D8EB1C6000000000000000000000000 at luna:33743
+Registered RPC Server
+Created tapestry node Tapestry Node 222413B48AC6B2F4000000000000000000000000 at luna:44453
+Registered RPC Server
+Created tapestry node Tapestry Node 69F2C6B0E9E01932000000000000000000000000 at luna:39887
+Registered RPC Server
+Created tapestry node Tapestry Node 0A44690CA41F1A56000000000000000000000000 at luna:45827
+Registered RPC Server
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:46753
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:41819
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:36505
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:33513
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:37649
+Registered RPC Server
+Created tapestry node Tapestry Node 51F88EF7C53FFDD2000000000000000000000000 at luna:34485
+Registered RPC Server
+Created tapestry node Tapestry Node 0FE605BD3D8EB1C6000000000000000000000000 at luna:32887
+Registered RPC Server
+Created tapestry node Tapestry Node 222413B48AC6B2F4000000000000000000000000 at luna:35473
+Registered RPC Server
+Created tapestry node Tapestry Node 69F2C6B0E9E01932000000000000000000000000 at luna:34171
+Registered RPC Server
+Created tapestry node Tapestry Node 0A44690CA41F1A56000000000000000000000000 at luna:42191
+Registered RPC Server
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:40261
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:43805
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:32903
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:34787
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:36301
+Registered RPC Server
+Created tapestry node Tapestry Node 51F88EF7C53FFDD2000000000000000000000000 at luna:37545
+Registered RPC Server
+Created tapestry node Tapestry Node 0FE605BD3D8EB1C6000000000000000000000000 at luna:40799
+Registered RPC Server
+Created tapestry node Tapestry Node 222413B48AC6B2F4000000000000000000000000 at luna:46671
+Registered RPC Server
+Created tapestry node Tapestry Node 69F2C6B0E9E01932000000000000000000000000 at luna:46827
+Registered RPC Server
+Created tapestry node Tapestry Node 0A44690CA41F1A56000000000000000000000000 at luna:38855
+Registered RPC Server
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:44633
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:42473
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:40899
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:41879
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:40041
+Registered RPC Server
+Created tapestry node Tapestry Node 51F88EF7C53FFDD2000000000000000000000000 at luna:33781
+Registered RPC Server
+Created tapestry node Tapestry Node 0FE605BD3D8EB1C6000000000000000000000000 at luna:46585
+Registered RPC Server
+Created tapestry node Tapestry Node 222413B48AC6B2F4000000000000000000000000 at luna:37465
+Registered RPC Server
+Created tapestry node Tapestry Node 69F2C6B0E9E01932000000000000000000000000 at luna:38833
+Registered RPC Server
+Created tapestry node Tapestry Node 0A44690CA41F1A56000000000000000000000000 at luna:36787
+Registered RPC Server
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:33673
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:36731
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:34455
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:41987
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:42253
+Registered RPC Server
+Created tapestry node Tapestry Node 51F88EF7C53FFDD2000000000000000000000000 at luna:35475
+Registered RPC Server
+Created tapestry node Tapestry Node 0FE605BD3D8EB1C6000000000000000000000000 at luna:39949
+Registered RPC Server
+Created tapestry node Tapestry Node 222413B48AC6B2F4000000000000000000000000 at luna:36783
+Registered RPC Server
+Created tapestry node Tapestry Node 69F2C6B0E9E01932000000000000000000000000 at luna:45853
+Registered RPC Server
+Created tapestry node Tapestry Node 0A44690CA41F1A56000000000000000000000000 at luna:37483
+Registered RPC Server
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:40765
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:33753
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:46185
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:36785
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:37491
+Registered RPC Server
+Created tapestry node Tapestry Node 8D86D1D0681D9E75000000000000000000000000 at luna:44139
+Registered RPC Server
+Created tapestry node Tapestry Node E100619793BC6680000000000000000000000000 at luna:36447
+Registered RPC Server
+Created tapestry node Tapestry Node 492D4C22CA2D8041000000000000000000000000 at luna:33009
+Registered RPC Server
+Created tapestry node Tapestry Node 0A70929384F796C0000000000000000000000000 at luna:37265
+Registered RPC Server
+Created tapestry node Tapestry Node 99BED9814A744862000000000000000000000000 at luna:37257
+Registered RPC Server
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:36737
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:44501
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:41653
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:33775
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:38347
+Registered RPC Server
+Created tapestry node Tapestry Node 8D86D1D0681D9E75000000000000000000000000 at luna:33537
+Registered RPC Server
+Created tapestry node Tapestry Node E100619793BC6680000000000000000000000000 at luna:46635
+Registered RPC Server
+Created tapestry node Tapestry Node 492D4C22CA2D8041000000000000000000000000 at luna:35241
+Registered RPC Server
+Created tapestry node Tapestry Node 0A70929384F796C0000000000000000000000000 at luna:45745
+Registered RPC Server
+Created tapestry node Tapestry Node 99BED9814A744862000000000000000000000000 at luna:34325
+Registered RPC Server
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:44941
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:41297
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:32847
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:34979
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:40797
+Registered RPC Server
+Created tapestry node Tapestry Node 8D86D1D0681D9E75000000000000000000000000 at luna:40919
+Registered RPC Server
+Created tapestry node Tapestry Node E100619793BC6680000000000000000000000000 at luna:40723
+Registered RPC Server
+Created tapestry node Tapestry Node 492D4C22CA2D8041000000000000000000000000 at luna:39155
+Registered RPC Server
+Created tapestry node Tapestry Node 0A70929384F796C0000000000000000000000000 at luna:38591
+Registered RPC Server
+Created tapestry node Tapestry Node 99BED9814A744862000000000000000000000000 at luna:36699
+Registered RPC Server
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:34955
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:45937
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:44829
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:34913
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:42021
+Registered RPC Server
+Created tapestry node Tapestry Node 8D86D1D0681D9E75000000000000000000000000 at luna:34247
+Registered RPC Server
+Created tapestry node Tapestry Node E100619793BC6680000000000000000000000000 at luna:38405
+Registered RPC Server
+Created tapestry node Tapestry Node 492D4C22CA2D8041000000000000000000000000 at luna:39327
+Registered RPC Server
+Created tapestry node Tapestry Node 0A70929384F796C0000000000000000000000000 at luna:40037
+Registered RPC Server
+Created tapestry node Tapestry Node 99BED9814A744862000000000000000000000000 at luna:43833
+Registered RPC Server
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:38353
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:33217
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:34047
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:37823
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:44721
+Registered RPC Server
+Created tapestry node Tapestry Node 8D86D1D0681D9E75000000000000000000000000 at luna:45721
+Registered RPC Server
+Created tapestry node Tapestry Node E100619793BC6680000000000000000000000000 at luna:36257
+Registered RPC Server
+Created tapestry node Tapestry Node 492D4C22CA2D8041000000000000000000000000 at luna:41615
+Registered RPC Server
+Created tapestry node Tapestry Node 0A70929384F796C0000000000000000000000000 at luna:36085
+Registered RPC Server
+Created tapestry node Tapestry Node 99BED9814A744862000000000000000000000000 at luna:34703
+Registered RPC Server
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:34943
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:34153
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:42651
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:39041
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:33133
+Registered RPC Server
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:33181
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:44807
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:34767
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:40491
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:41863
+Registered RPC Server
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:35229
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:36983
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:38711
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:45511
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:41923
+Registered RPC Server
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:41345
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:33221
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:40967
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:38693
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:41251
+Registered RPC Server
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:38173
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:44853
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:43039
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:39785
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:37683
+Registered RPC Server
+Created tapestry node Tapestry Node 3031FAFD00000000000000000000000000000000 at luna:45943
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 772038A000000000000000000000000000000000 at luna:35967
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 99ED9E3000000000000000000000000000000000 at luna:38197
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 1110000000000000000000000000000000000000 at luna:39827
+Registered RPC Server
+Created tapestry node Tapestry Node 1150000000000000000000000000000000000000 at luna:36805
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 1110000000000000000000000000000000000000 at luna:45071
+Registered RPC Server
+Created tapestry node Tapestry Node 1150000000000000000000000000000000000000 at luna:40777
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 1110000000000000000000000000000000000000 at luna:33335
+Registered RPC Server
+Created tapestry node Tapestry Node 1150000000000000000000000000000000000000 at luna:42713
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 1110000000000000000000000000000000000000 at luna:43547
+Registered RPC Server
+Created tapestry node Tapestry Node 1150000000000000000000000000000000000000 at luna:44265
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 1110000000000000000000000000000000000000 at luna:42689
+Registered RPC Server
+Created tapestry node Tapestry Node 1150000000000000000000000000000000000000 at luna:40831
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 1110000000000000000000000000000000000000 at luna:45887
+Registered RPC Server
+Created tapestry node Tapestry Node 1150000000000000000000000000000000000000 at luna:46023
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:41855
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:42989
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:38965
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:33983
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:37335
+Registered RPC Server
+Created tapestry node Tapestry Node 8D86D1D0681D9E75000000000000000000000000 at luna:33015
+Registered RPC Server
+Created tapestry node Tapestry Node E100619793BC6680000000000000000000000000 at luna:46133
+Registered RPC Server
+Created tapestry node Tapestry Node 492D4C22CA2D8041000000000000000000000000 at luna:43329
+Registered RPC Server
+Created tapestry node Tapestry Node 0A70929384F796C0000000000000000000000000 at luna:40209
+Registered RPC Server
+Created tapestry node Tapestry Node 99BED9814A744862000000000000000000000000 at luna:37067
+Registered RPC Server
+Created tapestry node Tapestry Node 40D5783F6CC72F14000000000000000000000000 at luna:44527
+Registered RPC Server
+Created tapestry node Tapestry Node 72649E59FAA55286000000000000000000000000 at luna:44949
+Registered RPC Server
+Created tapestry node Tapestry Node 639715AB2AFFC6B1000000000000000000000000 at luna:38119
+Registered RPC Server
+Created tapestry node Tapestry Node 4D174C381FF59B03000000000000000000000000 at luna:36825
+Registered RPC Server
+Created tapestry node Tapestry Node B0DA3BC785126B82000000000000000000000000 at luna:36553
+Registered RPC Server
+Created tapestry node Tapestry Node 9D55624AA15940C3000000000000000000000000 at luna:41777
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node F22828BC2E9F9651000000000000000000000000 at luna:46581
+Registered RPC Server
+Created tapestry node Tapestry Node F613440CAAC4DE12000000000000000000000000 at luna:44521
+Registered RPC Server
+Created tapestry node Tapestry Node 65BD9D76CD827960000000000000000000000000 at luna:46215
+Registered RPC Server
+Created tapestry node Tapestry Node 08A63FEB8D6AA3F0000000000000000000000000 at luna:37449
+Registered RPC Server
+Created tapestry node Tapestry Node AC611EB886B60AE4000000000000000000000000 at luna:36993
+Registered RPC Server
+Created tapestry node Tapestry Node CD02C8EFEC56DB67000000000000000000000000 at luna:37221
+Registered RPC Server
+Created tapestry node Tapestry Node 072AD30A20B66663000000000000000000000000 at luna:40819
+Registered RPC Server
+Created tapestry node Tapestry Node 01F8AB0D483436A1000000000000000000000000 at luna:46815
+Registered RPC Server
+Created tapestry node Tapestry Node EF90DDA677E312B1000000000000000000000000 at luna:41737
+Registered RPC Server
+Created tapestry node Tapestry Node 8B32A6738F82E301000000000000000000000000 at luna:42939
+Registered RPC Server
+Created tapestry node Tapestry Node BF7263F7E63E45F4000000000000000000000000 at luna:36959
+Registered RPC Server
+Created tapestry node Tapestry Node 7368C9043427D5E6000000000000000000000000 at luna:38215
+Registered RPC Server
+Created tapestry node Tapestry Node E52A6CB310FAF2F2000000000000000000000000 at luna:43819
+Registered RPC Server
+Created tapestry node Tapestry Node BC3B78ED04ADCA03000000000000000000000000 at luna:37189
+Registered RPC Server
+Created tapestry node Tapestry Node 265224C3419A49F4000000000000000000000000 at luna:37913
+Registered RPC Server
+Created tapestry node Tapestry Node DD0AF893B9878847000000000000000000000000 at luna:39065
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 58BF7EB2064682C5000000000000000000000000 at luna:41171
+Registered RPC Server
+Created tapestry node Tapestry Node 09405A139F769835000000000000000000000000 at luna:36793
+Registered RPC Server
+Created tapestry node Tapestry Node D85F13E90E922987000000000000000000000000 at luna:42757
+Registered RPC Server
+Created tapestry node Tapestry Node DF8D0412AF052526000000000000000000000000 at luna:40847
+Registered RPC Server
+Created tapestry node Tapestry Node 34B46FEE12B4F527000000000000000000000000 at luna:44879
+Registered RPC Server
+Created tapestry node Tapestry Node FD4190CFB2A8A0C1000000000000000000000000 at luna:43091
+Registered RPC Server
+Created tapestry node Tapestry Node 25C122B1CA1BCB63000000000000000000000000 at luna:36417
+Registered RPC Server
+Created tapestry node Tapestry Node 8A3A1C94D5BDBF04000000000000000000000000 at luna:41173
+Registered RPC Server
+Created tapestry node Tapestry Node CDB0D7578BB7C992000000000000000000000000 at luna:41321
+Registered RPC Server
+Created tapestry node Tapestry Node 7F85067BB2EB5FB3000000000000000000000000 at luna:34009
+Registered RPC Server
+Created tapestry node Tapestry Node 396374C1225E6DC2000000000000000000000000 at luna:34143
+Registered RPC Server
+Created tapestry node Tapestry Node 775C36EEECD48D56000000000000000000000000 at luna:39941
+Registered RPC Server
+Created tapestry node Tapestry Node A86E65555E0A4986000000000000000000000000 at luna:33589
+Registered RPC Server
+Created tapestry node Tapestry Node 9EEC2FBF72477BC2000000000000000000000000 at luna:42183
+Registered RPC Server
+Created tapestry node Tapestry Node 592B4E1EE251DEA7000000000000000000000000 at luna:34915
+Registered RPC Server
+Created tapestry node Tapestry Node 1B9770FC1E3C70D3000000000000000000000000 at luna:36523
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 2E08D7C9D1EC62F1000000000000000000000000 at luna:39863
+Registered RPC Server
+Created tapestry node Tapestry Node FA00AC184DEF11D0000000000000000000000000 at luna:35893
+Registered RPC Server
+Created tapestry node Tapestry Node 2CE3E86B57E2F1C2000000000000000000000000 at luna:41799
+Registered RPC Server
+Created tapestry node Tapestry Node A97D616CF12CF497000000000000000000000000 at luna:39433
+Registered RPC Server
+Created tapestry node Tapestry Node D2080C14983B4AA2000000000000000000000000 at luna:37351
+Registered RPC Server
+Created tapestry node Tapestry Node 3C4F7786D9A09CB3000000000000000000000000 at luna:37519
+Registered RPC Server
+Created tapestry node Tapestry Node 5A249F1B4791A2A6000000000000000000000000 at luna:36341
+Registered RPC Server
+Created tapestry node Tapestry Node C261AD84D31EA674000000000000000000000000 at luna:45189
+Registered RPC Server
+Created tapestry node Tapestry Node A390F31970DC3C77000000000000000000000000 at luna:40147
+Registered RPC Server
+Created tapestry node Tapestry Node F5794F730873DA55000000000000000000000000 at luna:34001
+Registered RPC Server
+Created tapestry node Tapestry Node A81AE57A9CD50BA2000000000000000000000000 at luna:34673
+Registered RPC Server
+Created tapestry node Tapestry Node 785CC199462403C5000000000000000000000000 at luna:42103
+Registered RPC Server
+Created tapestry node Tapestry Node BBF8B826342BC1C0000000000000000000000000 at luna:39275
+Registered RPC Server
+Created tapestry node Tapestry Node CD0C513257469AC0000000000000000000000000 at luna:45617
+Registered RPC Server
+Created tapestry node Tapestry Node BFA23C95AAA79B12000000000000000000000000 at luna:38093
+Registered RPC Server
+Created tapestry node Tapestry Node 5944DC262E0488D6000000000000000000000000 at luna:45843
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 0C90310EA2364E66000000000000000000000000 at luna:33879
+Registered RPC Server
+Created tapestry node Tapestry Node FC35D2B9C22E2824000000000000000000000000 at luna:34097
+Registered RPC Server
+Created tapestry node Tapestry Node AF8DA56F9918C5D7000000000000000000000000 at luna:34471
+Registered RPC Server
+Created tapestry node Tapestry Node 815C59AE084426C4000000000000000000000000 at luna:41579
+Registered RPC Server
+Created tapestry node Tapestry Node 7A497F153231C5D3000000000000000000000000 at luna:44097
+Registered RPC Server
+Created tapestry node Tapestry Node 7C824CD3AAA52A95000000000000000000000000 at luna:40611
+Registered RPC Server
+Created tapestry node Tapestry Node 845D1AD7ED9460C3000000000000000000000000 at luna:41139
+Registered RPC Server
+Created tapestry node Tapestry Node 4803949A59BC0DD6000000000000000000000000 at luna:36161
+Registered RPC Server
+Created tapestry node Tapestry Node 8BD0329684796462000000000000000000000000 at luna:41227
+Registered RPC Server
+Created tapestry node Tapestry Node E7014EC32BFE64F7000000000000000000000000 at luna:44215
+Registered RPC Server
+Created tapestry node Tapestry Node 26CAEE9F03845300000000000000000000000000 at luna:38235
+Registered RPC Server
+Created tapestry node Tapestry Node 7D444EA30F145635000000000000000000000000 at luna:41967
+Registered RPC Server
+Created tapestry node Tapestry Node 3E1DC31D7F9BDA54000000000000000000000000 at luna:40807
+Registered RPC Server
+Created tapestry node Tapestry Node AE9D0E27CB6AEA01000000000000000000000000 at luna:36965
+Registered RPC Server
+Created tapestry node Tapestry Node 29BF5BC22C4FF8F3000000000000000000000000 at luna:35267
+Registered RPC Server
+Created tapestry node Tapestry Node 98EA440E025C6062000000000000000000000000 at luna:45775
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:32947
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:35025
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:40779
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:36213
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:34885
+Registered RPC Server
+Created tapestry node Tapestry Node 8D86D1D0681D9E75000000000000000000000000 at luna:36585
+Registered RPC Server
+Created tapestry node Tapestry Node E100619793BC6680000000000000000000000000 at luna:46539
+Registered RPC Server
+Created tapestry node Tapestry Node 492D4C22CA2D8041000000000000000000000000 at luna:41229
+Registered RPC Server
+Created tapestry node Tapestry Node 0A70929384F796C0000000000000000000000000 at luna:41177
+Registered RPC Server
+Created tapestry node Tapestry Node 99BED9814A744862000000000000000000000000 at luna:38831
+Registered RPC Server
+Created tapestry node Tapestry Node 40D5783F6CC72F14000000000000000000000000 at luna:45555
+Registered RPC Server
+Created tapestry node Tapestry Node 72649E59FAA55286000000000000000000000000 at luna:46463
+Registered RPC Server
+Created tapestry node Tapestry Node 639715AB2AFFC6B1000000000000000000000000 at luna:33105
+Registered RPC Server
+Created tapestry node Tapestry Node 4D174C381FF59B03000000000000000000000000 at luna:41709
+Registered RPC Server
+Created tapestry node Tapestry Node B0DA3BC785126B82000000000000000000000000 at luna:39329
+Registered RPC Server
+Created tapestry node Tapestry Node 9D55624AA15940C3000000000000000000000000 at luna:45459
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node F22828BC2E9F9651000000000000000000000000 at luna:35487
+Registered RPC Server
+Created tapestry node Tapestry Node F613440CAAC4DE12000000000000000000000000 at luna:44761
+Registered RPC Server
+Created tapestry node Tapestry Node 65BD9D76CD827960000000000000000000000000 at luna:45917
+Registered RPC Server
+Created tapestry node Tapestry Node 08A63FEB8D6AA3F0000000000000000000000000 at luna:37301
+Registered RPC Server
+Created tapestry node Tapestry Node AC611EB886B60AE4000000000000000000000000 at luna:36599
+Registered RPC Server
+Created tapestry node Tapestry Node CD02C8EFEC56DB67000000000000000000000000 at luna:39311
+Registered RPC Server
+Created tapestry node Tapestry Node 072AD30A20B66663000000000000000000000000 at luna:35021
+Registered RPC Server
+Created tapestry node Tapestry Node 01F8AB0D483436A1000000000000000000000000 at luna:39793
+Registered RPC Server
+Created tapestry node Tapestry Node EF90DDA677E312B1000000000000000000000000 at luna:43185
+Registered RPC Server
+Created tapestry node Tapestry Node 8B32A6738F82E301000000000000000000000000 at luna:35467
+Registered RPC Server
+Created tapestry node Tapestry Node BF7263F7E63E45F4000000000000000000000000 at luna:33877
+Registered RPC Server
+Created tapestry node Tapestry Node 7368C9043427D5E6000000000000000000000000 at luna:38841
+Registered RPC Server
+Created tapestry node Tapestry Node E52A6CB310FAF2F2000000000000000000000000 at luna:44297
+Registered RPC Server
+Created tapestry node Tapestry Node BC3B78ED04ADCA03000000000000000000000000 at luna:46093
+Registered RPC Server
+Created tapestry node Tapestry Node 265224C3419A49F4000000000000000000000000 at luna:44535
+Registered RPC Server
+Created tapestry node Tapestry Node DD0AF893B9878847000000000000000000000000 at luna:37141
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:41821
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:42033
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:44901
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:33971
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:41665
+Registered RPC Server
+Created tapestry node Tapestry Node 8D86D1D0681D9E75000000000000000000000000 at luna:38283
+Registered RPC Server
+Created tapestry node Tapestry Node E100619793BC6680000000000000000000000000 at luna:45953
+Registered RPC Server
+Created tapestry node Tapestry Node 492D4C22CA2D8041000000000000000000000000 at luna:44611
+Registered RPC Server
+Created tapestry node Tapestry Node 0A70929384F796C0000000000000000000000000 at luna:40307
+Registered RPC Server
+Created tapestry node Tapestry Node 99BED9814A744862000000000000000000000000 at luna:33611
+Registered RPC Server
+Created tapestry node Tapestry Node 40D5783F6CC72F14000000000000000000000000 at luna:34065
+Registered RPC Server
+Created tapestry node Tapestry Node 72649E59FAA55286000000000000000000000000 at luna:33507
+Registered RPC Server
+Created tapestry node Tapestry Node 639715AB2AFFC6B1000000000000000000000000 at luna:36967
+Registered RPC Server
+Created tapestry node Tapestry Node 4D174C381FF59B03000000000000000000000000 at luna:45603
+Registered RPC Server
+Created tapestry node Tapestry Node B0DA3BC785126B82000000000000000000000000 at luna:35309
+Registered RPC Server
+Created tapestry node Tapestry Node 9D55624AA15940C3000000000000000000000000 at luna:44907
+Registered RPC Server
+Created tapestry node Tapestry Node 86B0E4C7B867A342000000000000000000000000 at luna:33357
+Registered RPC Server
+Created tapestry node Tapestry Node B1D1944D59C54852000000000000000000000000 at luna:34319
+Registered RPC Server
+Created tapestry node Tapestry Node 6812365252F3CE65000000000000000000000000 at luna:40235
+Registered RPC Server
+Created tapestry node Tapestry Node 37D87D9A2EB89FB1000000000000000000000000 at luna:37493
+Registered RPC Server
+Created tapestry node Tapestry Node 1211C961F07020A1000000000000000000000000 at luna:46571
+Registered RPC Server
+Created tapestry node Tapestry Node 446851BBAD8013E2000000000000000000000000 at luna:36209
+Registered RPC Server
+Created tapestry node Tapestry Node F3A6E86B862DB094000000000000000000000000 at luna:45007
+Registered RPC Server
+Created tapestry node Tapestry Node 5F50895729E166E6000000000000000000000000 at luna:35915
+Registered RPC Server
+Created tapestry node Tapestry Node A8B5FDC2F74C4852000000000000000000000000 at luna:36109
+Registered RPC Server
+Created tapestry node Tapestry Node 54292D75B2DC6062000000000000000000000000 at luna:46645
+Registered RPC Server
+Created tapestry node Tapestry Node 862D6D5CF2054506000000000000000000000000 at luna:39537
+Registered RPC Server
+Created tapestry node Tapestry Node 2E0D38B68FC417A1000000000000000000000000 at luna:39609
+Registered RPC Server
+Created tapestry node Tapestry Node 47BC476763C43CE6000000000000000000000000 at luna:39189
+Registered RPC Server
+Created tapestry node Tapestry Node BD9D860B7F71E295000000000000000000000000 at luna:46423
+Registered RPC Server
+Created tapestry node Tapestry Node 8D7549BB53B8C034000000000000000000000000 at luna:36955
+Registered RPC Server
+Created tapestry node Tapestry Node B325D51A87F6F930000000000000000000000000 at luna:36113
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node F22828BC2E9F9651000000000000000000000000 at luna:43919
+Registered RPC Server
+Created tapestry node Tapestry Node F613440CAAC4DE12000000000000000000000000 at luna:46865
+Registered RPC Server
+Created tapestry node Tapestry Node 65BD9D76CD827960000000000000000000000000 at luna:33655
+Registered RPC Server
+Created tapestry node Tapestry Node 08A63FEB8D6AA3F0000000000000000000000000 at luna:46269
+Registered RPC Server
+Created tapestry node Tapestry Node AC611EB886B60AE4000000000000000000000000 at luna:45817
+Registered RPC Server
+Created tapestry node Tapestry Node CD02C8EFEC56DB67000000000000000000000000 at luna:46509
+Registered RPC Server
+Created tapestry node Tapestry Node 072AD30A20B66663000000000000000000000000 at luna:34601
+Registered RPC Server
+Created tapestry node Tapestry Node 01F8AB0D483436A1000000000000000000000000 at luna:40047
+Registered RPC Server
+Created tapestry node Tapestry Node EF90DDA677E312B1000000000000000000000000 at luna:34421
+Registered RPC Server
+Created tapestry node Tapestry Node 8B32A6738F82E301000000000000000000000000 at luna:35555
+Registered RPC Server
+Created tapestry node Tapestry Node BF7263F7E63E45F4000000000000000000000000 at luna:44887
+Registered RPC Server
+Created tapestry node Tapestry Node 7368C9043427D5E6000000000000000000000000 at luna:40763
+Registered RPC Server
+Created tapestry node Tapestry Node E52A6CB310FAF2F2000000000000000000000000 at luna:42639
+Registered RPC Server
+Created tapestry node Tapestry Node BC3B78ED04ADCA03000000000000000000000000 at luna:44577
+Registered RPC Server
+Created tapestry node Tapestry Node 265224C3419A49F4000000000000000000000000 at luna:38757
+Registered RPC Server
+Created tapestry node Tapestry Node DD0AF893B9878847000000000000000000000000 at luna:39435
+Registered RPC Server
+Created tapestry node Tapestry Node CF6B8C7430DD0173000000000000000000000000 at luna:39493
+Registered RPC Server
+Created tapestry node Tapestry Node A17CC70F004EB910000000000000000000000000 at luna:35031
+Registered RPC Server
+Created tapestry node Tapestry Node A2337F849A6D9944000000000000000000000000 at luna:40205
+Registered RPC Server
+Created tapestry node Tapestry Node 3304EF525A5FF827000000000000000000000000 at luna:45211
+Registered RPC Server
+Created tapestry node Tapestry Node 1067F63D64668614000000000000000000000000 at luna:40013
+Registered RPC Server
+Created tapestry node Tapestry Node 9E0ED227A7B29441000000000000000000000000 at luna:36129
+Registered RPC Server
+Created tapestry node Tapestry Node 4F641971D8797E64000000000000000000000000 at luna:36251
+Registered RPC Server
+Created tapestry node Tapestry Node E5F40C9AAC1530C3000000000000000000000000 at luna:46447
+Registered RPC Server
+Created tapestry node Tapestry Node 9B825C08662DAA34000000000000000000000000 at luna:36343
+Registered RPC Server
+Created tapestry node Tapestry Node 5FA5E4ACFE4D2687000000000000000000000000 at luna:37363
+Registered RPC Server
+Created tapestry node Tapestry Node 3AA5F1BAF5E874F5000000000000000000000000 at luna:36095
+Registered RPC Server
+Created tapestry node Tapestry Node 8E560B7F3FA71AC2000000000000000000000000 at luna:35675
+Registered RPC Server
+Created tapestry node Tapestry Node 96DDC039440B3494000000000000000000000000 at luna:42551
+Registered RPC Server
+Created tapestry node Tapestry Node 57476C5D2E9EA852000000000000000000000000 at luna:43379
+Registered RPC Server
+Created tapestry node Tapestry Node 786740AC38D00D26000000000000000000000000 at luna:38303
+Registered RPC Server
+Created tapestry node Tapestry Node 814D6F34A6B4EAD2000000000000000000000000 at luna:40127
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 58BF7EB2064682C5000000000000000000000000 at luna:42381
+Registered RPC Server
+Created tapestry node Tapestry Node 09405A139F769835000000000000000000000000 at luna:33113
+Registered RPC Server
+Created tapestry node Tapestry Node D85F13E90E922987000000000000000000000000 at luna:42429
+Registered RPC Server
+Created tapestry node Tapestry Node DF8D0412AF052526000000000000000000000000 at luna:38103
+Registered RPC Server
+Created tapestry node Tapestry Node 34B46FEE12B4F527000000000000000000000000 at luna:40317
+Registered RPC Server
+Created tapestry node Tapestry Node FD4190CFB2A8A0C1000000000000000000000000 at luna:42255
+Registered RPC Server
+Created tapestry node Tapestry Node 25C122B1CA1BCB63000000000000000000000000 at luna:38579
+Registered RPC Server
+Created tapestry node Tapestry Node 8A3A1C94D5BDBF04000000000000000000000000 at luna:37943
+Registered RPC Server
+Created tapestry node Tapestry Node CDB0D7578BB7C992000000000000000000000000 at luna:43523
+Registered RPC Server
+Created tapestry node Tapestry Node 7F85067BB2EB5FB3000000000000000000000000 at luna:38953
+Registered RPC Server
+Created tapestry node Tapestry Node 396374C1225E6DC2000000000000000000000000 at luna:36525
+Registered RPC Server
+Created tapestry node Tapestry Node 775C36EEECD48D56000000000000000000000000 at luna:40617
+Registered RPC Server
+Created tapestry node Tapestry Node A86E65555E0A4986000000000000000000000000 at luna:45527
+Registered RPC Server
+Created tapestry node Tapestry Node 9EEC2FBF72477BC2000000000000000000000000 at luna:38375
+Registered RPC Server
+Created tapestry node Tapestry Node 592B4E1EE251DEA7000000000000000000000000 at luna:42769
+Registered RPC Server
+Created tapestry node Tapestry Node 1B9770FC1E3C70D3000000000000000000000000 at luna:33657
+Registered RPC Server
+Created tapestry node Tapestry Node 1A783E9AA96EDEF3000000000000000000000000 at luna:42387
+Registered RPC Server
+Created tapestry node Tapestry Node 5126D88A603C4BC5000000000000000000000000 at luna:34025
+Registered RPC Server
+Created tapestry node Tapestry Node D12893D3279C3533000000000000000000000000 at luna:45591
+Registered RPC Server
+Created tapestry node Tapestry Node C728578F65051E33000000000000000000000000 at luna:42337
+Registered RPC Server
+Created tapestry node Tapestry Node ADADC2419850A0B5000000000000000000000000 at luna:46271
+Registered RPC Server
+Created tapestry node Tapestry Node 603D87147BB4BCA7000000000000000000000000 at luna:33115
+Registered RPC Server
+Created tapestry node Tapestry Node DB8F89A791CDDD85000000000000000000000000 at luna:40365
+Registered RPC Server
+Created tapestry node Tapestry Node 8C9E66FBAFFCCA17000000000000000000000000 at luna:41059
+Registered RPC Server
+Created tapestry node Tapestry Node 41AD3B93159A9E85000000000000000000000000 at luna:38877
+Registered RPC Server
+Created tapestry node Tapestry Node 4AFCAF645C6FC090000000000000000000000000 at luna:35695
+Registered RPC Server
+Created tapestry node Tapestry Node 54B3B564F8024CB5000000000000000000000000 at luna:37361
+Registered RPC Server
+Created tapestry node Tapestry Node DB22FDDC6F3D1D71000000000000000000000000 at luna:33101
+Registered RPC Server
+Created tapestry node Tapestry Node 24F6583408C0BB96000000000000000000000000 at luna:40577
+Registered RPC Server
+Created tapestry node Tapestry Node F57032D10985C6B4000000000000000000000000 at luna:44731
+Registered RPC Server
+Created tapestry node Tapestry Node D3994DD52C892FA1000000000000000000000000 at luna:43275
+Registered RPC Server
+Created tapestry node Tapestry Node 976ECB75F12B61C4000000000000000000000000 at luna:39727
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 2E08D7C9D1EC62F1000000000000000000000000 at luna:33151
+Registered RPC Server
+Created tapestry node Tapestry Node FA00AC184DEF11D0000000000000000000000000 at luna:33051
+Registered RPC Server
+Created tapestry node Tapestry Node 2CE3E86B57E2F1C2000000000000000000000000 at luna:39767
+Registered RPC Server
+Created tapestry node Tapestry Node A97D616CF12CF497000000000000000000000000 at luna:37359
+Registered RPC Server
+Created tapestry node Tapestry Node D2080C14983B4AA2000000000000000000000000 at luna:43171
+Registered RPC Server
+Created tapestry node Tapestry Node 3C4F7786D9A09CB3000000000000000000000000 at luna:35131
+Registered RPC Server
+Created tapestry node Tapestry Node 5A249F1B4791A2A6000000000000000000000000 at luna:33001
+Registered RPC Server
+Created tapestry node Tapestry Node C261AD84D31EA674000000000000000000000000 at luna:35855
+Registered RPC Server
+Created tapestry node Tapestry Node A390F31970DC3C77000000000000000000000000 at luna:39243
+Registered RPC Server
+Created tapestry node Tapestry Node F5794F730873DA55000000000000000000000000 at luna:41099
+Registered RPC Server
+Created tapestry node Tapestry Node A81AE57A9CD50BA2000000000000000000000000 at luna:41041
+Registered RPC Server
+Created tapestry node Tapestry Node 785CC199462403C5000000000000000000000000 at luna:37401
+Registered RPC Server
+Created tapestry node Tapestry Node BBF8B826342BC1C0000000000000000000000000 at luna:38705
+Registered RPC Server
+Created tapestry node Tapestry Node CD0C513257469AC0000000000000000000000000 at luna:34205
+Registered RPC Server
+Created tapestry node Tapestry Node BFA23C95AAA79B12000000000000000000000000 at luna:39699
+Registered RPC Server
+Created tapestry node Tapestry Node 5944DC262E0488D6000000000000000000000000 at luna:35465
+Registered RPC Server
+Created tapestry node Tapestry Node 5533EA4D118CC7F3000000000000000000000000 at luna:34743
+Registered RPC Server
+Created tapestry node Tapestry Node 35B0177023D15B83000000000000000000000000 at luna:38479
+Registered RPC Server
+Created tapestry node Tapestry Node 0839D8B887BE6022000000000000000000000000 at luna:44261
+Registered RPC Server
+Created tapestry node Tapestry Node B3C5C3F48129C600000000000000000000000000 at luna:45701
+Registered RPC Server
+Created tapestry node Tapestry Node ABB30CA55642D460000000000000000000000000 at luna:44707
+Registered RPC Server
+Created tapestry node Tapestry Node BAD69743F55E9E66000000000000000000000000 at luna:34677
+Registered RPC Server
+Created tapestry node Tapestry Node A9FDD9DDD3D1FB65000000000000000000000000 at luna:40163
+Registered RPC Server
+Created tapestry node Tapestry Node 5EBDF7F802AADCE3000000000000000000000000 at luna:45933
+Registered RPC Server
+Created tapestry node Tapestry Node C57E90298F617176000000000000000000000000 at luna:35973
+Registered RPC Server
+Created tapestry node Tapestry Node 558F2750A44607B5000000000000000000000000 at luna:42983
+Registered RPC Server
+Created tapestry node Tapestry Node D3FBAB3BEBD35C61000000000000000000000000 at luna:44821
+Registered RPC Server
+Created tapestry node Tapestry Node F7BC70E56F5230A2000000000000000000000000 at luna:36431
+Registered RPC Server
+Created tapestry node Tapestry Node F318C0AD9A453344000000000000000000000000 at luna:40223
+Registered RPC Server
+Created tapestry node Tapestry Node 912E60B0FD6A1970000000000000000000000000 at luna:37025
+Registered RPC Server
+Created tapestry node Tapestry Node 8E9B429880FF6335000000000000000000000000 at luna:43231
+Registered RPC Server
+Created tapestry node Tapestry Node 6186135F89776263000000000000000000000000 at luna:33455
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 0C90310EA2364E66000000000000000000000000 at luna:35059
+Registered RPC Server
+Created tapestry node Tapestry Node FC35D2B9C22E2824000000000000000000000000 at luna:40073
+Registered RPC Server
+Created tapestry node Tapestry Node AF8DA56F9918C5D7000000000000000000000000 at luna:41329
+Registered RPC Server
+Created tapestry node Tapestry Node 815C59AE084426C4000000000000000000000000 at luna:35353
+Registered RPC Server
+Created tapestry node Tapestry Node 7A497F153231C5D3000000000000000000000000 at luna:36439
+Registered RPC Server
+Created tapestry node Tapestry Node 7C824CD3AAA52A95000000000000000000000000 at luna:41535
+Registered RPC Server
+Created tapestry node Tapestry Node 845D1AD7ED9460C3000000000000000000000000 at luna:46039
+Registered RPC Server
+Created tapestry node Tapestry Node 4803949A59BC0DD6000000000000000000000000 at luna:46361
+Registered RPC Server
+Created tapestry node Tapestry Node 8BD0329684796462000000000000000000000000 at luna:41871
+Registered RPC Server
+Created tapestry node Tapestry Node E7014EC32BFE64F7000000000000000000000000 at luna:38483
+Registered RPC Server
+Created tapestry node Tapestry Node 26CAEE9F03845300000000000000000000000000 at luna:33849
+Registered RPC Server
+Created tapestry node Tapestry Node 7D444EA30F145635000000000000000000000000 at luna:40323
+Registered RPC Server
+Created tapestry node Tapestry Node 3E1DC31D7F9BDA54000000000000000000000000 at luna:42475
+Registered RPC Server
+Created tapestry node Tapestry Node AE9D0E27CB6AEA01000000000000000000000000 at luna:43439
+Registered RPC Server
+Created tapestry node Tapestry Node 29BF5BC22C4FF8F3000000000000000000000000 at luna:33553
+Registered RPC Server
+Created tapestry node Tapestry Node 98EA440E025C6062000000000000000000000000 at luna:45921
+Registered RPC Server
+Created tapestry node Tapestry Node AF40B77F8EFBA505000000000000000000000000 at luna:42831
+Registered RPC Server
+Created tapestry node Tapestry Node 153A50D4BB8AEB43000000000000000000000000 at luna:38051
+Registered RPC Server
+Created tapestry node Tapestry Node 4F4CF09EC737B701000000000000000000000000 at luna:39325
+Registered RPC Server
+Created tapestry node Tapestry Node C7F827DAAD754CE5000000000000000000000000 at luna:36403
+Registered RPC Server
+Created tapestry node Tapestry Node 2AE9FD71F9203F71000000000000000000000000 at luna:33127
+Registered RPC Server
+Created tapestry node Tapestry Node 0DFB3DAEDFE87745000000000000000000000000 at luna:44661
+Registered RPC Server
+Created tapestry node Tapestry Node 338B0473AE788965000000000000000000000000 at luna:40225
+Registered RPC Server
+Created tapestry node Tapestry Node E452A00E04A617C7000000000000000000000000 at luna:36769
+Registered RPC Server
+Created tapestry node Tapestry Node 3B0B62973EB403D7000000000000000000000000 at luna:38995
+Registered RPC Server
+Created tapestry node Tapestry Node 8CCBF537E1518956000000000000000000000000 at luna:34457
+Registered RPC Server
+Created tapestry node Tapestry Node 7EFB63BEFED74263000000000000000000000000 at luna:33977
+Registered RPC Server
+Created tapestry node Tapestry Node 4646F2AA1FBCE2B5000000000000000000000000 at luna:40781
+Registered RPC Server
+Created tapestry node Tapestry Node 55F84D277E07C8C5000000000000000000000000 at luna:42119
+Registered RPC Server
+Created tapestry node Tapestry Node 3D28324D7C440325000000000000000000000000 at luna:38087
+Registered RPC Server
+Created tapestry node Tapestry Node F8C55D9FD43F83E0000000000000000000000000 at luna:38951
+Registered RPC Server
+Created tapestry node Tapestry Node F6A0A11AE0E00146000000000000000000000000 at luna:39939
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 25DFCF70122856D4000000000000000000000000 at luna:34723
+Registered RPC Server
+Created tapestry node Tapestry Node F461F3F5F0A92687000000000000000000000000 at luna:34737
+Registered RPC Server
+Created tapestry node Tapestry Node D12759667CD40155000000000000000000000000 at luna:43785
+Registered RPC Server
+Created tapestry node Tapestry Node 30C7D4B7BB407083000000000000000000000000 at luna:38611
+Registered RPC Server
+Created tapestry node Tapestry Node 1D2E6C941858A563000000000000000000000000 at luna:43407
+Registered RPC Server
+Created tapestry node Tapestry Node 8D86D1D0681D9E75000000000000000000000000 at luna:33337
+Registered RPC Server
+Created tapestry node Tapestry Node E100619793BC6680000000000000000000000000 at luna:42937
+Registered RPC Server
+Created tapestry node Tapestry Node 492D4C22CA2D8041000000000000000000000000 at luna:46427
+Registered RPC Server
+Created tapestry node Tapestry Node 0A70929384F796C0000000000000000000000000 at luna:39217
+Registered RPC Server
+Created tapestry node Tapestry Node 99BED9814A744862000000000000000000000000 at luna:33699
+Registered RPC Server
+Created tapestry node Tapestry Node 40D5783F6CC72F14000000000000000000000000 at luna:39641
+Registered RPC Server
+Created tapestry node Tapestry Node 72649E59FAA55286000000000000000000000000 at luna:45615
+Registered RPC Server
+Created tapestry node Tapestry Node 639715AB2AFFC6B1000000000000000000000000 at luna:37199
+Registered RPC Server
+Created tapestry node Tapestry Node 4D174C381FF59B03000000000000000000000000 at luna:37369
+Registered RPC Server
+Created tapestry node Tapestry Node B0DA3BC785126B82000000000000000000000000 at luna:34399
+Registered RPC Server
+Created tapestry node Tapestry Node 9D55624AA15940C3000000000000000000000000 at luna:43095
+Registered RPC Server
+Created tapestry node Tapestry Node 86B0E4C7B867A342000000000000000000000000 at luna:41351
+Registered RPC Server
+Created tapestry node Tapestry Node B1D1944D59C54852000000000000000000000000 at luna:33041
+Registered RPC Server
+Created tapestry node Tapestry Node 6812365252F3CE65000000000000000000000000 at luna:36081
+Registered RPC Server
+Created tapestry node Tapestry Node 37D87D9A2EB89FB1000000000000000000000000 at luna:38295
+Registered RPC Server
+Created tapestry node Tapestry Node 1211C961F07020A1000000000000000000000000 at luna:33659
+Registered RPC Server
+Created tapestry node Tapestry Node 446851BBAD8013E2000000000000000000000000 at luna:38121
+Registered RPC Server
+Created tapestry node Tapestry Node F3A6E86B862DB094000000000000000000000000 at luna:45257
+Registered RPC Server
+Created tapestry node Tapestry Node 5F50895729E166E6000000000000000000000000 at luna:46733
+Registered RPC Server
+Created tapestry node Tapestry Node A8B5FDC2F74C4852000000000000000000000000 at luna:40977
+Registered RPC Server
+Created tapestry node Tapestry Node 54292D75B2DC6062000000000000000000000000 at luna:44763
+Registered RPC Server
+Created tapestry node Tapestry Node 862D6D5CF2054506000000000000000000000000 at luna:46703
+Registered RPC Server
+Created tapestry node Tapestry Node 2E0D38B68FC417A1000000000000000000000000 at luna:40923
+Registered RPC Server
+Created tapestry node Tapestry Node 47BC476763C43CE6000000000000000000000000 at luna:39951
+Registered RPC Server
+Created tapestry node Tapestry Node BD9D860B7F71E295000000000000000000000000 at luna:39481
+Registered RPC Server
+Created tapestry node Tapestry Node 8D7549BB53B8C034000000000000000000000000 at luna:40989
+Registered RPC Server
+Created tapestry node Tapestry Node B325D51A87F6F930000000000000000000000000 at luna:34713
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node F22828BC2E9F9651000000000000000000000000 at luna:46527
+Registered RPC Server
+Created tapestry node Tapestry Node F613440CAAC4DE12000000000000000000000000 at luna:38443
+Registered RPC Server
+Created tapestry node Tapestry Node 65BD9D76CD827960000000000000000000000000 at luna:33475
+Registered RPC Server
+Created tapestry node Tapestry Node 08A63FEB8D6AA3F0000000000000000000000000 at luna:43639
+Registered RPC Server
+Created tapestry node Tapestry Node AC611EB886B60AE4000000000000000000000000 at luna:38333
+Registered RPC Server
+Created tapestry node Tapestry Node CD02C8EFEC56DB67000000000000000000000000 at luna:40971
+Registered RPC Server
+Created tapestry node Tapestry Node 072AD30A20B66663000000000000000000000000 at luna:36453
+Registered RPC Server
+Created tapestry node Tapestry Node 01F8AB0D483436A1000000000000000000000000 at luna:36231
+Registered RPC Server
+Created tapestry node Tapestry Node EF90DDA677E312B1000000000000000000000000 at luna:43035
+Registered RPC Server
+Created tapestry node Tapestry Node 8B32A6738F82E301000000000000000000000000 at luna:34027
+Registered RPC Server
+Created tapestry node Tapestry Node BF7263F7E63E45F4000000000000000000000000 at luna:42261
+Registered RPC Server
+Created tapestry node Tapestry Node 7368C9043427D5E6000000000000000000000000 at luna:33719
+Registered RPC Server
+Created tapestry node Tapestry Node E52A6CB310FAF2F2000000000000000000000000 at luna:35279
+Registered RPC Server
+Created tapestry node Tapestry Node BC3B78ED04ADCA03000000000000000000000000 at luna:37685
+Registered RPC Server
+Created tapestry node Tapestry Node 265224C3419A49F4000000000000000000000000 at luna:46363
+Registered RPC Server
+Created tapestry node Tapestry Node DD0AF893B9878847000000000000000000000000 at luna:39569
+Registered RPC Server
+Created tapestry node Tapestry Node CF6B8C7430DD0173000000000000000000000000 at luna:36623
+Registered RPC Server
+Created tapestry node Tapestry Node A17CC70F004EB910000000000000000000000000 at luna:43177
+Registered RPC Server
+Created tapestry node Tapestry Node A2337F849A6D9944000000000000000000000000 at luna:41917
+Registered RPC Server
+Created tapestry node Tapestry Node 3304EF525A5FF827000000000000000000000000 at luna:45809
+Registered RPC Server
+Created tapestry node Tapestry Node 1067F63D64668614000000000000000000000000 at luna:35781
+Registered RPC Server
+Created tapestry node Tapestry Node 9E0ED227A7B29441000000000000000000000000 at luna:41431
+Registered RPC Server
+Created tapestry node Tapestry Node 4F641971D8797E64000000000000000000000000 at luna:45237
+Registered RPC Server
+Created tapestry node Tapestry Node E5F40C9AAC1530C3000000000000000000000000 at luna:45471
+Registered RPC Server
+Created tapestry node Tapestry Node 9B825C08662DAA34000000000000000000000000 at luna:34053
+Registered RPC Server
+Created tapestry node Tapestry Node 5FA5E4ACFE4D2687000000000000000000000000 at luna:42107
+Registered RPC Server
+Created tapestry node Tapestry Node 3AA5F1BAF5E874F5000000000000000000000000 at luna:40695
+Registered RPC Server
+Created tapestry node Tapestry Node 8E560B7F3FA71AC2000000000000000000000000 at luna:35001
+Registered RPC Server
+Created tapestry node Tapestry Node 96DDC039440B3494000000000000000000000000 at luna:46601
+Registered RPC Server
+Created tapestry node Tapestry Node 57476C5D2E9EA852000000000000000000000000 at luna:41481
+Registered RPC Server
+Created tapestry node Tapestry Node 786740AC38D00D26000000000000000000000000 at luna:38425
+Registered RPC Server
+Created tapestry node Tapestry Node 814D6F34A6B4EAD2000000000000000000000000 at luna:46259
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 1110000000000000000000000000000000000000 at luna:43541
+Registered RPC Server
+Created tapestry node Tapestry Node 1150000000000000000000000000000000000000 at luna:46639
+Registered RPC Server
+Created tapestry node Tapestry Node AAFF880000000000000000000000000000000000 at luna:44657
+Registered RPC Server
+Created tapestry node Tapestry Node ADFF880000000000000000000000000000000000 at luna:37389
+Registered RPC Server
+Created tapestry node Tapestry Node AFFF990000000000000000000000000000000000 at luna:40609
+Registered RPC Server
+Created tapestry node Tapestry Node A132930000000000000000000000000000000000 at luna:34879
+Registered RPC Server
+Created tapestry node Tapestry Node 1199000000000000000000000000000000000000 at luna:37495
+Registered RPC Server
+Created tapestry node Tapestry Node 1220000000000000000000000000000000000000 at luna:38793
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:36011
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:38433
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:41175
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 0010100000000000000000000000000000000000 at luna:36279
+Registered RPC Server
+Created tapestry node Tapestry Node 1100000000000000000000000000000000000000 at luna:46109
+Registered RPC Server
+Created tapestry node Tapestry Node 1110000000000000000000000000000000000000 at luna:44423
+Registered RPC Server
+Created tapestry node Tapestry Node 0101000000000000000000000000000000000000 at luna:37601
+Registered RPC Server
+Created tapestry node Tapestry Node 0011000000000000000000000000000000000000 at luna:35877
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:46441
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:41549
+Registered RPC Server
+ERROR: 23:59:17 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+Created tapestry node Tapestry Node 3000000000000000000000000000000000000000 at luna:42073
+Registered RPC Server
+Created tapestry node Tapestry Node 4000000000000000000000000000000000000000 at luna:33129
+Registered RPC Server
+Created tapestry node Tapestry Node 5000000000000000000000000000000000000000 at luna:37387
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:40783
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:36509
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:35331
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:45629
+Registered RPC Server
+Created tapestry node Tapestry Node 1100000000000000000000000000000000000000 at luna:34285
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 1100000000000000000000000000000000000000 at luna:38781
+Registered RPC Server
+Created tapestry node Tapestry Node 1200000000000000000000000000000000000000 at luna:41029
+Registered RPC Server
+Created tapestry node Tapestry Node 0000000000000000000000000000000000000000 at luna:36703
+Registered RPC Server
+killing
+finished killing
+ERROR: 23:59:20 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+Created tapestry node Tapestry Node 0000000000000000000000000000000000000000 at luna:38675
+Registered RPC Server
+Created tapestry node Tapestry Node 1110000000000000000000000000000000000000 at luna:34107
+Registered RPC Server
+Created tapestry node Tapestry Node 1120000000000000000000000000000000000000 at luna:33601
+Registered RPC Server
+Created tapestry node Tapestry Node 1127000000000000000000000000000000000000 at luna:46541
+Registered RPC Server
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:39617
+Registered RPC Server
+ERROR: 23:59:21 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+killing
+finished killing
+Created tapestry node Tapestry Node 0000000000000000000000000000000000000000 at luna:34987
+Registered RPC Server
+Created tapestry node Tapestry Node 0100000000000000000000000000000000000000 at luna:32805
+Registered RPC Server
+Created tapestry node Tapestry Node 0010000000000000000000000000000000000000 at luna:42691
+Registered RPC Server
+Created tapestry node Tapestry Node 0001000000000000000000000000000000000000 at luna:36991
+Registered RPC Server
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:43783
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 1100000000000000000000000000000000000000 at luna:43861
+Registered RPC Server
+Created tapestry node Tapestry Node 1200000000000000000000000000000000000000 at luna:38569
+Registered RPC Server
+Created tapestry node Tapestry Node 1270000000000000000000000000000000000000 at luna:37645
+Registered RPC Server
+Created tapestry node Tapestry Node 0000000000000000000000000000000000000000 at luna:34781
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 1100000000000000000000000000000000000000 at luna:42185
+Registered RPC Server
+Created tapestry node Tapestry Node 1200000000000000000000000000000000000000 at luna:45513
+Registered RPC Server
+Created tapestry node Tapestry Node 1270000000000000000000000000000000000000 at luna:39343
+Registered RPC Server
+Created tapestry node Tapestry Node 0000000000000000000000000000000000000000 at luna:46879
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 1111000000000000000000000000000000000000 at luna:32779
+Registered RPC Server
+Created tapestry node Tapestry Node 2111000000000000000000000000000000000000 at luna:43673
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 2111000000000000000000000000000000000000 at luna:45753
+Registered RPC Server
+Created tapestry node Tapestry Node 1111000000000000000000000000000000000000 at luna:35433
+Registered RPC Server
+killing
+finished killing
+ERROR: 23:59:27 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:41141
+Registered RPC Server
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:42943
+Registered RPC Server
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:34627
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:37899
+Registered RPC Server
+ERROR: 23:59:30 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:35639
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:38285
+Registered RPC Server
+ERROR: 23:59:31 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:39681
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:38789
+Registered RPC Server
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:40973
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:34449
+Registered RPC Server
+Created tapestry node Tapestry Node 1111000000000000000000000000000000000000 at luna:34521
+Registered RPC Server
+Created tapestry node Tapestry Node 2111000000000000000000000000000000000000 at luna:41903
+Registered RPC Server
+Created tapestry node Tapestry Node 1111000000000000000000000000000000000000 at luna:35383
+Registered RPC Server
+Created tapestry node Tapestry Node 2111000000000000000000000000000000000000 at luna:44889
+Registered RPC Server
+ERROR: 23:59:35 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 1111000000000000000000000000000000000000 at luna:43587
+Registered RPC Server
+Created tapestry node Tapestry Node 2111000000000000000000000000000000000000 at luna:39367
+Registered RPC Server
+ERROR: 23:59:36 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 1111000000000000000000000000000000000000 at luna:45409
+Registered RPC Server
+Created tapestry node Tapestry Node 2111000000000000000000000000000000000000 at luna:39697
+Registered RPC Server
+ERROR: 23:59:37 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+Created tapestry node Tapestry Node 1111000000000000000000000000000000000000 at luna:45877
+Registered RPC Server
+Created tapestry node Tapestry Node 2111000000000000000000000000000000000000 at luna:44735
+Registered RPC Server
+Created tapestry node Tapestry Node 1111000000000000000000000000000000000000 at luna:42307
+Registered RPC Server
+Created tapestry node Tapestry Node 2111000000000000000000000000000000000000 at luna:40263
+Registered RPC Server
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:38373
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:34231
+Registered RPC Server
+ERROR: 23:59:40 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:45017
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:41491
+Registered RPC Server
+ERROR: 23:59:41 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+Created tapestry node Tapestry Node 1111000000000000000000000000000000000000 at luna:34249
+Registered RPC Server
+Created tapestry node Tapestry Node 2111000000000000000000000000000000000000 at luna:39701
+Registered RPC Server
+Created tapestry node Tapestry Node 1111000000000000000000000000000000000000 at luna:44679
+Registered RPC Server
+Created tapestry node Tapestry Node 2111000000000000000000000000000000000000 at luna:35611
+Registered RPC Server
+ERROR: 23:59:43 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 1111000000000000000000000000000000000000 at luna:44133
+Registered RPC Server
+Created tapestry node Tapestry Node 2111000000000000000000000000000000000000 at luna:40789
+Registered RPC Server
+ERROR: 23:59:44 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+setting up
+ERROR: 23:59:45 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 23:59:45 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 23:59:45 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 23:59:46 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 23:59:46 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 23:59:46 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 23:59:47 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:39051
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:34853
+Registered RPC Server
+ERROR: 23:59:50 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+killing
+finished killing
+killing
+finished killing
+tearing up
+ERROR: 23:59:51 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 23:59:52 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 23:59:53 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 23:59:53 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 23:59:54 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 23:59:54 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 23:59:54 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+setting up
+ERROR: 23:59:55 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 23:59:55 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 23:59:55 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 23:59:56 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 23:59:56 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 23:59:56 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 23:59:57 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+ERROR: 00:00:00 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:35581
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:43787
+Registered RPC Server
+killing
+finished killing
+killing
+finished killing
+tearing up
+ERROR: 00:00:01 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:00:02 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:03 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:03 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:04 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:04 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:04 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:05 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+setting up
+ERROR: 00:00:05 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:05 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:06 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:06 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:06 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:07 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+ERROR: 00:00:10 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:39931
+Registered RPC Server
+Created tapestry node Tapestry Node 2410000000000000000000000000000000000000 at luna:35783
+Registered RPC Server
+Created tapestry node Tapestry Node 2420000000000000000000000000000000000000 at luna:40755
+Registered RPC Server
+Created tapestry node Tapestry Node 2430000000000000000000000000000000000000 at luna:36545
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:33381
+Registered RPC Server
+killing
+finished killing
+killing
+finished killing
+tearing up
+ERROR: 00:00:11 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:00:12 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:13 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:13 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:14 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:14 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:14 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:15 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:15 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:15 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+setting up
+ERROR: 00:00:16 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:16 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:16 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:17 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+ERROR: 00:00:20 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:43389
+Registered RPC Server
+Created tapestry node Tapestry Node 2410000000000000000000000000000000000000 at luna:46745
+Registered RPC Server
+Created tapestry node Tapestry Node 2420000000000000000000000000000000000000 at luna:44313
+Registered RPC Server
+Created tapestry node Tapestry Node 2430000000000000000000000000000000000000 at luna:35347
+Registered RPC Server
+Created tapestry node Tapestry Node 2440000000000000000000000000000000000000 at luna:36039
+Registered RPC Server
+ERROR: 00:00:21 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+killing
+finished killing
+killing
+finished killing
+tearing up
+ERROR: 00:00:22 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:23 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:23 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:24 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:24 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:24 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:25 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:25 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:25 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+setting up
+ERROR: 00:00:26 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:26 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:26 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:27 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+ERROR: 00:00:30 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:00:31 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:44469
+Registered RPC Server
+Created tapestry node Tapestry Node 2410000000000000000000000000000000000000 at luna:44515
+Registered RPC Server
+Created tapestry node Tapestry Node 2420000000000000000000000000000000000000 at luna:32901
+Registered RPC Server
+Created tapestry node Tapestry Node 2430000000000000000000000000000000000000 at luna:36777
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:00:32 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:33 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:33 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:34 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:34 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:34 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:35 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:35 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:35 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:36 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+setting up
+ERROR: 00:00:36 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:36 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:37 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+ERROR: 00:00:40 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:00:41 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:38365
+Registered RPC Server
+Created tapestry node Tapestry Node 2410000000000000000000000000000000000000 at luna:45335
+Registered RPC Server
+Created tapestry node Tapestry Node 2420000000000000000000000000000000000000 at luna:45577
+Registered RPC Server
+Created tapestry node Tapestry Node 2430000000000000000000000000000000000000 at luna:38467
+Registered RPC Server
+ERROR: 00:00:42 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:36073
+Registered RPC Server
+killing
+finished killing
+killing
+finished killing
+tearing up
+ERROR: 00:00:43 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:43 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:44 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:44 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:44 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:45 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:45 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:45 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:46 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:46 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:46 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:47 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+setting up
+ERROR: 00:00:50 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:00:51 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:00:52 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:34773
+Registered RPC Server
+killing
+finished killing
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:35795
+Registered RPC Server
+tearing up
+ERROR: 00:00:53 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:53 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:54 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:54 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:54 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:55 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:55 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:55 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:56 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:56 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:56 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:00:57 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+setting up
+ERROR: 00:01:00 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:01:01 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:01:02 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:39135
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:01:03 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:03 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:04 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:04 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:04 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:05 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:05 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:05 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:06 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:06 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:06 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:07 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+setting up
+ERROR: 00:01:10 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:01:11 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:01:12 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:46443
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:01:13 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:13 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:14 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:14 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:14 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:15 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:15 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:15 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:16 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:16 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:16 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:17 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+setting up
+ERROR: 00:01:20 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:01:21 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:01:22 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:45093
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:33931
+Registered RPC Server
+killing
+finished killing
+killing
+finished killing
+killing
+finished killing
+tearing up
+ERROR: 00:01:23 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:23 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:24 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:24 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:24 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:25 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:25 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:25 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:26 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:26 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:26 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:27 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+setting up
+ERROR: 00:01:30 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:01:31 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:01:32 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 7700000000000000000000000000000000000000 at luna:46197
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:01:33 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:33 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:34 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:34 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:34 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:35 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:35 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:35 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:36 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:36 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:36 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:37 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+setting up
+ERROR: 00:01:40 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:01:41 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:01:42 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 7700000000000000000000000000000000000000 at luna:44253
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:01:43 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:43 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:44 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:44 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:44 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:45 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:45 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:45 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:46 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:46 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:46 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:47 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+setting up
+ERROR: 00:01:50 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:01:51 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:01:52 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 7700000000000000000000000000000000000000 at luna:45609
+Registered RPC Server
+Created tapestry node Tapestry Node 8800000000000000000000000000000000000000 at luna:33041
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:01:53 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:53 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:54 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:54 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:54 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:55 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:55 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:55 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:56 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:56 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:56 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:01:57 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+setting up
+ERROR: 00:02:00 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:02:01 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:02:02 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 7700000000000000000000000000000000000000 at luna:33651
+Registered RPC Server
+Created tapestry node Tapestry Node 8800000000000000000000000000000000000000 at luna:36671
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:02:03 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:03 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:04 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:04 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:04 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:05 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:05 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:05 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:06 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:06 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:06 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:07 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+setting up
+ERROR: 00:02:10 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:02:11 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:02:12 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 7700000000000000000000000000000000000000 at luna:44613
+Registered RPC Server
+Created tapestry node Tapestry Node 8800000000000000000000000000000000000000 at luna:46269
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:02:13 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:13 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:14 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:14 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:14 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:15 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:15 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:15 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:16 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:16 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:16 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:17 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+setting up
+ERROR: 00:02:20 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:02:21 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:02:22 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 7700000000000000000000000000000000000000 at luna:35369
+Registered RPC Server
+Created tapestry node Tapestry Node 8800000000000000000000000000000000000000 at luna:36437
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:02:23 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:23 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:24 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:24 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:24 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:25 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:25 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:25 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:26 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:26 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:26 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:27 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+setting up
+ERROR: 00:02:30 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:02:31 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:02:32 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 7700000000000000000000000000000000000000 at luna:36937
+Registered RPC Server
+Created tapestry node Tapestry Node 8800000000000000000000000000000000000000 at luna:32931
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:02:33 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:33 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:34 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:34 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:34 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:35 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:35 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:35 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:36 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:36 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:36 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:37 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+setting up
+ERROR: 00:02:40 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:02:41 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:02:42 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 7700000000000000000000000000000000000000 at luna:39719
+Registered RPC Server
+Created tapestry node Tapestry Node 8800000000000000000000000000000000000000 at luna:43949
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:02:43 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:43 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:44 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:44 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:44 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:45 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:45 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:45 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:46 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:46 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:46 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:47 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+setting up
+ERROR: 00:02:50 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:02:51 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:02:52 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 2277000000000000000000000000000000000000 at luna:46231
+Registered RPC Server
+Created tapestry node Tapestry Node 2288000000000000000000000000000000000000 at luna:44693
+Registered RPC Server
+Created tapestry node Tapestry Node 2299000000000000000000000000000000000000 at luna:39519
+Registered RPC Server
+Created tapestry node Tapestry Node 22AA000000000000000000000000000000000000 at luna:43151
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:02:53 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:53 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:54 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:54 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:54 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:55 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:55 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:55 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:56 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:56 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:56 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:02:57 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+setting up
+ERROR: 00:03:00 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:03:01 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:03:02 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 2277000000000000000000000000000000000000 at luna:45341
+Registered RPC Server
+Created tapestry node Tapestry Node 2288000000000000000000000000000000000000 at luna:35215
+Registered RPC Server
+Created tapestry node Tapestry Node 2299000000000000000000000000000000000000 at luna:42267
+Registered RPC Server
+Created tapestry node Tapestry Node 22AA000000000000000000000000000000000000 at luna:40873
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:03:03 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:03 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:04 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:04 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:04 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:05 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:05 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:05 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:06 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:06 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:06 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:07 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+setting up
+ERROR: 00:03:10 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:03:11 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:03:12 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 2277000000000000000000000000000000000000 at luna:40675
+Registered RPC Server
+Created tapestry node Tapestry Node 2288000000000000000000000000000000000000 at luna:39627
+Registered RPC Server
+Created tapestry node Tapestry Node 2299000000000000000000000000000000000000 at luna:33147
+Registered RPC Server
+Created tapestry node Tapestry Node 22AA000000000000000000000000000000000000 at luna:35083
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:03:13 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:13 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:14 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:14 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:14 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:15 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:15 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:15 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:16 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:16 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:16 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:17 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+setting up
+ERROR: 00:03:20 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:03:21 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:03:22 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 2277000000000000000000000000000000000000 at luna:33079
+Registered RPC Server
+Created tapestry node Tapestry Node 2288000000000000000000000000000000000000 at luna:41367
+Registered RPC Server
+Created tapestry node Tapestry Node 2299000000000000000000000000000000000000 at luna:37107
+Registered RPC Server
+Created tapestry node Tapestry Node 22AA000000000000000000000000000000000000 at luna:42387
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:03:23 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:23 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:24 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:24 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:24 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:25 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:25 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:25 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:26 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:26 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:26 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:27 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+setting up
+ERROR: 00:03:30 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:03:31 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:03:32 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:38801
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:03:33 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:33 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:34 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:34 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:34 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:35 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:35 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:35 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:36 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:36 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:36 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:37 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+setting up
+ERROR: 00:03:40 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:03:41 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:03:42 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 1100000000000000000000000000000000000000 at luna:42725
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:03:43 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:43 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:44 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:44 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:44 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:45 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:45 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:45 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:46 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:46 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:46 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:47 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+setting up
+ERROR: 00:03:50 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:03:51 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:03:52 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+Created tapestry node Tapestry Node 1100000000000000000000000000000000000000 at luna:45229
+Registered RPC Server
+Created tapestry node Tapestry Node 1200000000000000000000000000000000000000 at luna:34007
+Registered RPC Server
+ERROR: 00:03:57 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:57 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:57 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:57 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:57 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:57 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:57 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:57 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:57 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:57 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:57 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:03:57 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+killing
+finished killing
+tearing up
+ERROR: 00:04:00 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:04:01 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:04:02 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+setting up
+ERROR: 00:04:03 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:03 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:04 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:04 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:04 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:05 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:05 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:05 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:06 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:06 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:06 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:07 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:37911
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:44907
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:04:10 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:04:11 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:04:12 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+setting up
+ERROR: 00:04:13 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:13 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:14 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:14 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:14 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:15 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:15 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:15 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:16 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:16 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:16 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:17 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:45831
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:35177
+Registered RPC Server
+Created tapestry node Tapestry Node 3000000000000000000000000000000000000000 at luna:43217
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:04:20 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:04:21 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:04:22 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+setting up
+ERROR: 00:04:23 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:23 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:24 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:24 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:24 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:25 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:25 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:25 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:26 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:26 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:26 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:27 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+Created tapestry node Tapestry Node 1100000000000000000000000000000000000000 at luna:34433
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:37519
+Registered RPC Server
+Created tapestry node Tapestry Node 2100000000000000000000000000000000000000 at luna:37387
+Registered RPC Server
+Created tapestry node Tapestry Node 2200000000000000000000000000000000000000 at luna:39647
+Registered RPC Server
+Created tapestry node Tapestry Node 2300000000000000000000000000000000000000 at luna:33605
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:04:30 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:04:31 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:04:32 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:33 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+setting up
+ERROR: 00:04:33 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:34 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:34 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:34 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:35 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:35 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:35 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:36 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:36 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:36 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:37 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+Created tapestry node Tapestry Node 1111000000000000000000000000000000000000 at luna:36143
+Registered RPC Server
+Created tapestry node Tapestry Node 2222000000000000000000000000000000000000 at luna:44265
+Registered RPC Server
+Created tapestry node Tapestry Node 3333000000000000000000000000000000000000 at luna:33405
+Registered RPC Server
+Created tapestry node Tapestry Node 4444000000000000000000000000000000000000 at luna:43899
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:04:40 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:04:41 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:04:42 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:43 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+setting up
+ERROR: 00:04:43 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:44 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:44 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:44 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:45 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:45 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:45 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:46 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:46 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:46 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:47 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+Created tapestry node Tapestry Node 1111000000000000000000000000000000000000 at luna:44371
+Registered RPC Server
+Created tapestry node Tapestry Node 2111000000000000000000000000000000000000 at luna:44847
+Registered RPC Server
+Created tapestry node Tapestry Node 2222000000000000000000000000000000000000 at luna:39249
+Registered RPC Server
+Created tapestry node Tapestry Node 2333000000000000000000000000000000000000 at luna:36039
+Registered RPC Server
+Created tapestry node Tapestry Node 2444000000000000000000000000000000000000 at luna:40169
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:04:50 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:04:51 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:04:52 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:53 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:53 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:54 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:54 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+setting up
+ERROR: 00:04:54 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:55 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:55 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:55 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:56 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:56 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:56 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:04:57 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:45975
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:05:00 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:05:01 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:05:02 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:03 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:03 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:04 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:04 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+setting up
+ERROR: 00:05:04 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:05 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:05 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:05 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:06 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:06 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:06 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:07 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:38997
+Registered RPC Server
+Created tapestry node Tapestry Node 2200000000000000000000000000000000000000 at luna:44799
+Registered RPC Server
+killing
+finished killing
+killing
+finished killing
+tearing up
+ERROR: 00:05:10 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:05:11 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:05:12 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:13 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:13 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:14 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:14 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+setting up
+ERROR: 00:05:14 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:15 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:15 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:15 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:16 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:16 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:16 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:17 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:33245
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:05:20 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:05:21 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:05:22 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:23 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:23 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:24 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:24 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+setting up
+ERROR: 00:05:24 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:25 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:25 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:25 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:26 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:26 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:26 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:27 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:33783
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:37417
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:05:30 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:05:31 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:05:32 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+setting up
+ERROR: 00:05:37 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:37 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:37 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:37 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:37 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:37 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:37 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:37 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:37 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:37 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:37 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:37 node_core.go:130: Unable to publish 9-7-8 (DEDB9930E1E9FA838F34A390F33402E2268689BD) due to 3/3 failures
+Created tapestry node Tapestry Node 1000000000000000000000000000000000000000 at luna:33383
+Registered RPC Server
+Created tapestry node Tapestry Node 2000000000000000000000000000000000000000 at luna:39293
+Registered RPC Server
+killing
+finished killing
+tearing up
+ERROR: 00:05:40 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:05:41 node_core.go:130: Unable to publish 0-0-1 (B3AA65369C098403F0012E379054AA9466604CB8) due to 3/3 failures
+ERROR: 00:05:42 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:43 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:43 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:44 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:44 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+ERROR: 00:05:44 node_core.go:130: Unable to publish test (A94A8FE5CCB19BA61C4C0873D391E987982FBBD3) due to 3/3 failures
+OK: 173 passed
+--- PASS: TestTARoutingTable (553.17s)
+=== RUN   TestSimpleRoutingTable
+--- PASS: TestSimpleRoutingTable (0.00s)
+=== RUN   TestSimpleRoutingTable2
+--- PASS: TestSimpleRoutingTable2 (0.00s)
+=== RUN   TestSimpleRoutingTable3
+--- PASS: TestSimpleRoutingTable3 (0.00s)
+=== RUN   TestSimpleRoutingTable4
+--- PASS: TestSimpleRoutingTable4 (0.00s)
+=== RUN   TestTapestry
+Created tapestry node Tapestry Node 0000000000000000000000000000000000000000 at luna:6608
+Registered RPC Server
+Created tapestry node Tapestry Node 0000000000000000000000000000000000000001 at luna:6609
+Registered RPC Server
+--- PASS: TestTapestry (0.01s)
+PASS
+ok  	tapestry/tapestry	555.533s
